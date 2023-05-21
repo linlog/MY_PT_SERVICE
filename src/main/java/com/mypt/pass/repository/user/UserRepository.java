@@ -1,4 +1,4 @@
-package com.fastcampus.pass.repository.user;
+package com.mypt.pass.repository.user;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

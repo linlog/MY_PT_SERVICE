@@ -1,4 +1,4 @@
-package com.fastcampus.pass.repository.packaze;
+package com.mypt.pass.repository.packaze;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

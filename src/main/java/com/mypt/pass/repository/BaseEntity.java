@@ -1,4 +1,4 @@
-package com.fastcampus.pass.repository;
+package com.mypt.pass.repository;
 
 import org.springframework.data.annotation.CreatedDate;
 import org.springframework.data.annotation.LastModifiedDate;
